@@ -1,4 +1,4 @@
-[![MasterHead](https://blog.thecenterforsalesstrategy.com/hs-fs/hubfs/analytics.gif?width=400&name=analytics.gif)
+![MasterHead](https://blog.thecenterforsalesstrategy.com/hs-fs/hubfs/analytics.gif?width=400&name=analytics.gif)
 
 <h1 align="center">Hi 👋, I'm Mohd Ali khan</h1>
 <h3 align="center"> A Data Science enthusiast And a Blogger of Data Science at Medium & Analytics Vidya.</h3>
