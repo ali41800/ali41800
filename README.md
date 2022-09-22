@@ -1,7 +1,7 @@
 [![MasterHead](https://blog.thecenterforsalesstrategy.com/hs-fs/hubfs/analytics.gif?width=400&name=analytics.gif)
 
 <h1 align="center">Hi 👋, I'm Mohd Ali khan</h1>
-<h3 align="center">A Data Science enthusiast And a Blogger of Data Science at Medium & Analytics Vidya.</h3>
+<h3 align="center"> A Data Science enthusiast And a Blogger of Data Science at Medium & Analytics Vidya.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif">
 
@@ -9,17 +9,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ali41800" alt="ali41800" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning :- **Data Science**
 
-- 📝 I regularly write articles on [Medium:-https://medium.com/@ali41800k](Medium:-https://medium.com/@ali41800k)
+- 📝 I regularly write articles on :- [Medium:-https://medium.com/@ali41800k](Medium:-https://medium.com/@ali41800k)
 
-- 💬 Ask me about **Data Science**
+- 💬 Ask me about :- **Data Science**
 
-- 📫 How to reach me **ali41800k@gmail.com**
+- 📫 How to reach me :- **ali41800k@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ali-khan-38782520b/](https://www.linkedin.com/in/ali-khan-38782520b/)
+- 📄 Know about my experiences :- [https://www.linkedin.com/in/ali-khan-38782520b/](https://www.linkedin.com/in/ali-khan-38782520b/)
 
-- ⚡ Fun fact **Some people are so mean that their standard deviation is 0. 😂**
+- ⚡ Fun fact :- **Some people are so mean that their standard deviation is 0. 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
