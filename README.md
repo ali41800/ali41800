@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mohd Ali khan</h1>
 <h3 align="center"> A Data Science enthusiast And a Blogger of Data Science at Medium & Analytics Vidya.</h3>
 
-<img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif">
+<img align="right" alt="Coding" width="900" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali41800&label=Profile%20views&color=0e75b6&style=flat" alt="ali41800" /> </p>
 
