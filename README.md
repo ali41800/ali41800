@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h3>
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+Welcome+to+my+Github+page;Name+Reveal+-->+Mohd_Ali+Kaur;Aspiring+Data+scientist+From+Non_Tech+to+Tech+Student;Aspiring+Enthusiast;Key+interests+-->;Analysis+Bringing_best_outcome;Graphic-Designing;Aesthetic+Art+Lover+%3C3;and+much+more..."></a>
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+Welcome+to+my+Github+page;Name+Reveal+-->+Mohd_Ali+Kaur;Aspiring+Data+scientist+From+Non_Tech+to+Tech+Student;Aspiring+Enthusiast;Key+interests+-->;Doing+Analysis+Bringing+best+outcome+from+something;Graphic-Designing;Aesthetic+Art+Lover+%3C3;and+much+more..."></a>
 </p>
 
 
@@ -31,7 +31,7 @@ A Data Science enthusiast And a Blogger of Data Science at Medium & Analytics Vi
 - Outside tech, I love to read, create art works(_pretty good hold on Graphic stuff_), listen to music, explore nature.
 - ⚡ Fun fact `**:- Some people are so mean that their standard deviation is 0. 😂**`
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em><br>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more! Please follow me on Linkedin and let's connect.</b> :)</em><br>
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
