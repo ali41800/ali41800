@@ -1,38 +1,79 @@
 
-<h1 align="center">Hi 👋, I'm Mohd Ali khan</h1>
-<h3 align="center"> A Data Science enthusiast And a Blogger of Data Science at Medium & Analytics Vidya.</h3>
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ali41800&label=Profile%20views&color=0e75b6&style=flat" alt="ali41800" /> </p>
-
-
-
-- 🌱 I’m currently learning :- **Data Science 👍**
-
-- 📝 I regularly write articles on :- [Medium:-https://medium.com/@ali41800k](Medium:-https://medium.com/@ali41800k)
-
-- 💬 Ask me about :- **Data Science ✔✔**
-
-- 📫 How to reach me :- **ali41800k@gmail.com**
-
-- 📄 Know about my experiences :- [https://www.linkedin.com/in/ali-khan-38782520b/](https://www.linkedin.com/in/ali-khan-38782520b/)
-
-- ⚡ Fun fact :- **Some people are so mean that their standard deviation is 0. 😂**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ali-khan-38782520b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-khan-38782520b/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14552600/ali-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14552600/ali-khan" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/ali41800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ali41800" height="30" width="40" /></a>
-<a href="https://medium.com/@ali41800k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ali41800k" height="30" width="40" /></a>
+>### `Who am I?`
+<h3 align="center">
+  <em>Welcome to Mohd Ali khan's profile!</em>
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+</h3>
+<p align="center">
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+Welcome+to+my+Github+page;Name+Reveal+-->+Tanveer+Kaur;Under-grad+CS+Student;Aspiring+Enthusiast;Key+interests+-->;Web+Dev;Graphic-Designing;Aesthetic+Art+Lover+%3C3;and+much+more..."></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+>## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ali41800&show_icons=true&locale=en&layout=compact" alt="ali41800" /></p>
+I am an enthusiastic undergrad aspiring to be a Full Stack Web Developer. I am always on the go to learn and build something new, productive, innovative and creative. My expertise lies within front-end web apps, and the main languages in my tech stack are JavaScript, React, and of course HTML/CSS. I’m a lifelong learner (currently working on a NextJs based Website) and love to take up challenges.<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ali41800&show_icons=true&locale=en" alt="ali41800" /></p>
+><h3>Briefing on my Skills</h3>
+- pronouns: "he" | "him"
+- `code : Machine learning, Tableau, Excel, Python, MySQl` , SQLite
+- `tools : Scikit, Pandas, Matplotlib, Numpy , Selenium , Beautiful_Soup 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ali41800&" alt="ali41800" /></p>
+- Studying Data Science at DataTrained and from various external sources .
+- 💬 Ask me about:- **Data Science**
+- 📝 I regularly write articles on [Medium:-https://medium.com/@ali41800k](Medium:-https://medium.com/@ali41800k)
+- 📄 Know about my experiences:-  [https://www.linkedin.com/in/ali-khan-38782520b/](https://www.linkedin.com/in/ali-khan-38782520b/)
+
+- Exploring new technologies and developing Analytical insights.
+- Looking forward to collaborate on open source projects.
+- Outside tech, I love to read, create art works(_pretty good hold on Graphic stuff_), listen to music, explore nature.
+- ⚡ Fun fact **:- Some people are so mean that their standard deviation is 0. 😂**
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em><br>
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+>## 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+
+<br>
+
+<p  align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25">
+  </p>
+  
+
+  
+</p>
+   
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25">
+&nbsp;
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
+</p>  
+<br>
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+>## Github Stats  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="35" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=tkaur29&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=tkaur29&theme=blueberry_duo"/>
+|---|---|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkaur29&layout=compact&theme=github_dark"/>|<div align=center><h3><b>📍 Profile Visitor Count</b></h3><img src="https://profile-counter.glitch.me/DHANOLA/count.svg" /></div>  
+</p><br>
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+>## Connect with Me
+<a href="[https://www.linkedin.com/in/mohd-ali-khan-38782520b/]" target="_blank">
+  <img align="center" alt="Tanveer Kaur | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+
+  
+<a href="ali41800k@gmail.com" >
+  <img align="center" alt="Mohd Ali khan | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
