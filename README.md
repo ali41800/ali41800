@@ -18,18 +18,18 @@ A Data Science enthusiast And a Blogger of Data Science at Medium & Analytics Vi
 
 ><h3>Briefing on my Skills</h3>
 - pronouns: "he" | "him"
-- `code : Machine learning, Tableau, Excel, Python, MySQl, SQLite'
-- `tools : Scikit, Pandas, Matplotlib, Numpy, Selenium, Beautiful_Soup' 
+- `code : Machine learning, Tableau, Excel, Python, MySQl, SQLite`
+- `tools : Scikit, Pandas, Matplotlib, Numpy, Selenium, Beautiful_Soup` 
 
 - 🌱 Studying Data Science at DataTrained and from various external sources .
-- 💬 Ask me about:- **Data Science**
+- 💬 Ask me about:- `**Data Science**`
 - 📝 I regularly write articles on [Medium:-https://medium.com/@ali41800k](Medium:-https://medium.com/@ali41800k)
 - 📄 Know about my experiences:-  [https://www.linkedin.com/in/ali-khan-38782520b/](https://www.linkedin.com/in/ali-khan-38782520b/)
 
 - Exploring new technologies and developing Analytical insights.
 - Looking forward to collaborate on open source projects.
 - Outside tech, I love to read, create art works(_pretty good hold on Graphic stuff_), listen to music, explore nature.
-- ⚡ Fun fact **:- Some people are so mean that their standard deviation is 0. 😂**
+- ⚡ Fun fact `**:- Some people are so mean that their standard deviation is 0. 😂**`
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em><br>
 
