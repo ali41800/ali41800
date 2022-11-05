@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h3>
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+Welcome+to+my+Github+page;Name+Reveal+-->+Mohd_Ali+Khan;Aspiring+Data+scientist+From+Non_Tech+to+Tech+Student;Aspiring+Enthusiast;Key+interests+-->;Doing+Analysis+Bringing+best+outcome+from+something;Graphic-Designing;Aesthetic+Art+Lover+%3C3;and+much+more..."></a>
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+Welcome+to+my+Github+page;Name+Reveal+-->+Mohd+Ali+Khan;Aspiring+Data+scientist+From+Non_Tech+to+Tech+Student;Aspiring+Enthusiast;Key+interests+-->; ++Doing+Analysis+Bringing+best+outcome+from+something;Graphic-Designing;Aesthetic+Art+Lover+%3C3;and+much+more..."></a>
 </p>
 
 
