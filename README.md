@@ -18,8 +18,8 @@ A Data Science enthusiast And a Blogger of Data Science at Medium & Analytics Vi
 
 ><h3>Briefing on my Skills</h3>
 - pronouns: "he" | "him"
-- `code : Machine learning, Tableau, Excel, Python, MySQl` , SQLite
-- `tools : Scikit, Pandas, Matplotlib, Numpy , Selenium , Beautiful_Soup 
+- `code : Machine learning, Tableau, Excel, Python, MySQl , SQLite'
+- `tools : Scikit, Pandas, Matplotlib, Numpy , Selenium , Beautiful_Soup' 
 
 - Studying Data Science at DataTrained and from various external sources .
 - 💬 Ask me about:- **Data Science**
