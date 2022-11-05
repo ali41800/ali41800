@@ -21,7 +21,7 @@ A Data Science enthusiast And a Blogger of Data Science at Medium & Analytics Vi
 - `code : Machine learning, Tableau, Excel, Python, MySQl , SQLite'
 - `tools : Scikit, Pandas, Matplotlib, Numpy , Selenium , Beautiful_Soup' 
 
-- Studying Data Science at DataTrained and from various external sources .
+- 🌱 Studying Data Science at DataTrained and from various external sources .
 - 💬 Ask me about:- **Data Science**
 - 📝 I regularly write articles on [Medium:-https://medium.com/@ali41800k](Medium:-https://medium.com/@ali41800k)
 - 📄 Know about my experiences:-  [https://www.linkedin.com/in/ali-khan-38782520b/](https://www.linkedin.com/in/ali-khan-38782520b/)
@@ -48,9 +48,9 @@ A Data Science enthusiast And a Blogger of Data Science at Medium & Analytics Vi
 
 >## Github Stats  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="35" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=tkaur29&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=tkaur29&theme=blueberry_duo"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ali41800&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=tkaur29&theme=blueberry_duo"/>
 |---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkaur29&layout=compact&theme=github_dark"/>|<div align=center><h3><b>📍 Profile Visitor Count</b></h3><img src="https://profile-counter.glitch.me/DHANOLA/count.svg" /></div>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali41800&layout=compact&theme=github_dark"/>|<div align=center><h3><b>📍 Profile Visitor Count</b></h3><img src="https://profile-counter.glitch.me/DHANOLA/count.svg" /></div>  
 </p><br>
 
 <p  align="center">
@@ -58,10 +58,10 @@ A Data Science enthusiast And a Blogger of Data Science at Medium & Analytics Vi
 
 >## Connect with Me
 <a href="[https://www.linkedin.com/in/mohd-ali-khan-38782520b/]" target="_blank">
-  <img align="center" alt="Tanveer Kaur | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  <img align="left" alt="Tanveer Kaur | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
 
   
 <a href="ali41800k@gmail.com" >
-  <img align="center" alt="Mohd Ali khan | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  <img align="left" alt="Mohd Ali khan | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
