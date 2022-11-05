@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h3>
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+Welcome+to+my+Github+page;Name+Reveal+-->+Tanveer+Kaur;Under-grad+CS+Student;Aspiring+Enthusiast;Key+interests+-->;Web+Dev;Graphic-Designing;Aesthetic+Art+Lover+%3C3;and+much+more..."></a>
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+Welcome+to+my+Github+page;Name+Reveal+-->+Mohd_Ali+Kaur;Aspiring+Data+scientist+From+Non_Tech+to+Tech+Student;Aspiring+Enthusiast;Key+interests+-->;Analysis+Bringing_best_outcome;Graphic-Designing;Aesthetic+Art+Lover+%3C3;and+much+more..."></a>
 </p>
 
 
@@ -18,8 +18,8 @@ A Data Science enthusiast And a Blogger of Data Science at Medium & Analytics Vi
 
 ><h3>Briefing on my Skills</h3>
 - pronouns: "he" | "him"
-- `code : Machine learning, Tableau, Excel, Python, MySQl , SQLite'
-- `tools : Scikit, Pandas, Matplotlib, Numpy , Selenium , Beautiful_Soup' 
+- `code : Machine learning, Tableau, Excel, Python, MySQl, SQLite'
+- `tools : Scikit, Pandas, Matplotlib, Numpy, Selenium, Beautiful_Soup' 
 
 - 🌱 Studying Data Science at DataTrained and from various external sources .
 - 💬 Ask me about:- **Data Science**
