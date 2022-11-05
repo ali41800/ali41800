@@ -48,12 +48,11 @@ A Data Science enthusiast And a Blogger of Data Science at Medium & Analytics Vi
 
 >## Github Stats  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="35" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=ali41800&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=tkaur29&theme=blueberry_duo"/>
-|---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali41800&layout=compact&theme=github_dark"/>|<div align=center><h3><b>📍 Profile Visitor Count</b></h3><img src="https://profile-counter.glitch.me/DHANOLA/count.svg" /></div>  
-</p><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ali41800&show_icons=true&locale=en&layout=compact" alt="ali41800" /></p>
 
-<p  align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ali41800&show_icons=true&locale=en" alt="ali41800" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ali41800&" alt="ali41800" /></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 >## Connect with Me
