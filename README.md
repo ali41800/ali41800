@@ -57,11 +57,9 @@ A Data Science enthusiast And a Blogger of Data Science at Medium & Analytics Vi
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 >## Connect with Me
-<a href="[https://www.linkedin.com/in/mohd-ali-khan-38782520b/]" target="_blank">
-  <img align="left" alt="Tanveer Kaur | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-
-  
-<a href="ali41800k@gmail.com" >
-  <img align="left" alt="Mohd Ali khan | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ali-khan-38782520b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-khan-38782520b/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14552600/ali-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14552600/ali-khan" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/ali41800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ali41800" height="30" width="40" /></a>
+<a href="https://medium.com/@ali41800k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ali41800k" height="30" width="40" /></a>
+</p>
